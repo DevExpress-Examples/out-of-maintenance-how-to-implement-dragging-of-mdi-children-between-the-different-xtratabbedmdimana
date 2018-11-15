@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainForm.cs](./CS/TabbedMDIApp/MainForm.cs) (VB: [MainForm.vb](./VB/TabbedMDIApp/MainForm.vb))
+<!-- default file list end -->
 # How to implement dragging of MDI children between the different XtraTabbedMDIManagers
 
 
